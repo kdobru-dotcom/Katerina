@@ -82,7 +82,7 @@ If you had done all the above steps then your website will be live now. Please c
 
 * File size limit (100 MB) & Repo size limit (75 GB) & Upload limit(25MB): Github limits the maximum usable filesize as 100MB for all files. This is enough for most users. It also imposes a repo size limit of 75GB. If you add a file to a repository via a browser, the file can be no larger than 25 MB. Visit https://help.github.com/articles/what-is-my-disk-quota/ for more info.
 
-* GitHub Actions cache limit: GitHub Actions has a 10 GB total cache size limit per repository. The workflow caches the build output to avoid regenerating unchanged photos. For large galleries, if the cache size exceeds limits, older caches will be automatically evicted. Each cache entry is retained for 7 days if not accessed.
+* GitHub Actions cache limit:. GitHub Actions has a 10 GB total cache size limit per repository. The workflow caches the build output to avoid regenerating unchanged photos. For large galleries, if the cache size exceeds limits, older caches will be automatically evicted. Each cache entry is retained for 7 days if not accessed.
 
 
 ## Tools Used
